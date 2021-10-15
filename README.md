@@ -19,9 +19,9 @@ Currently, you could install by run
 
 ```shell
 # Install cocoapi
-pip install "git+https://github.com/open-mmlab/cocoapi.git#subdirectory=pycocotools"
+pip install "git+https://github.com/hebskjcc/cocoapi.git#subdirectory=pycocotools"
 # Install lvis-api
-pip install "git+https://github.com/open-mmlab/cocoapi.git#subdirectory=lvis"
+pip install "git+https://github.com/hebskjcc/cocoapi.git#subdirectory=lvis"
 ```
 
 ## Reference
